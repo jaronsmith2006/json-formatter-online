@@ -1,6 +1,6 @@
 # JSON Formatter Online
 
-A fast, privacy-friendly **JSON Formatter & Validator** that runs entirely in your browser.
+A fast, privacy-friendly **JSON Formatter & Validator** that runs entirely in your browser. 
 
 This tool helps developers format, validate, and beautify JSON instantly without uploading data to any server.
 
