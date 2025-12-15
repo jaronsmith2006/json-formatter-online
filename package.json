@@ -1,0 +1,16 @@
+{
+    "name": "js-tools-demo",
+    "version": "1.0.0",
+    "description": "Client-side JavaScript utility tools demo and reference.",
+    "private": true,
+    "license": "MIT",
+    "author": "JS Tools Online",
+    "homepage": "https://jstools.online",
+    "keywords": [
+      "javascript-tools",
+      "online-tools",
+      "js-utilities",
+      "developer-tools",
+      "frontend-tools"
+    ]
+  }  
