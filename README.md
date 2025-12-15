@@ -4,7 +4,7 @@ A fast, privacy-friendly **JSON Formatter & Validator** that runs entirely in yo
 
 This tool helps developers format, validate, and beautify JSON instantly without uploading data to any server.
 
-🔗 **Live Tool:** https://jstools.online/json-formatter  
+🔗 **Live Tool:** https://jstools.online/tools/json/json-beautifier
 🌐 **All Developer Tools:** https://jstools.online
 
 ---
@@ -41,9 +41,9 @@ This formatter runs **100% client-side**, making it ideal for:
 
 ## 📌 Related Tools
 
-- JavaScript Minifier – https://jstools.online/js-minify
-- CSV to SQL Converter – https://jstools.online/csv-to-sql
-- HTML Minifier – https://jstools.online/html-minify
+- JavaScript Minifier – https://jstools.online/tools/javascript/minify-js
+- CSV to SQL Converter – https://jstools.online/tools/csv/csv-to-sql
+- HTML Minifier – https://jstools.online/tools/html/html-minify
 
 ---
 
