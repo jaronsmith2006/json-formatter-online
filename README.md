@@ -4,7 +4,7 @@ A fast, privacy-friendly **JSON Formatter & Validator** that runs entirely in yo
 
 This tool helps developers format, validate, and beautify JSON instantly without uploading data to any server.
 
-🔗 **Live Tool:** https://jstools.online/tools/json/json-beautifier
+🔗 **Live Tool:** https://jstools.online/tools/json/json-beautifier  
 🌐 **All Developer Tools:** https://jstools.online
 
 ---
